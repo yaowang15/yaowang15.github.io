@@ -39,6 +39,9 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 - [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:uVUOdF_882EC
    Personalized Dynamic Product Ranking on Digital Platforms: A Low-Rank Cascading Bandit Approach]
     (2026; with Y. Han et al.).
+- [https://www.researchsquare.com/article/rs-9062650/v1
+    CoxFormer enables Spatial Omics Inference with Multimodal Generative Modeling]
+    (2026; with Y. Yang, X. Liao and J. Liu).
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
    Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
     (2025; with Q. Guo et al.).
@@ -260,8 +263,9 @@ Biao Xu | Ph.D., 2020- | Pairwise Learning in Management Science||
 Yishan Han | Ph.D., 2021- | Trustworthy Recommender Systems ||
 Jiannan Li | Ph.D., 2022- | Multi-Agent Reinforcement Learning ||
 Yiyang Yang | Ph.D., 2024- | Multi-modal Artificial Intelligence for Mangement ||
+Jie Li | Ph.D., 2024- | Information Design and Game Theory ||
 Qing Guo (co-advised with [http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jjxxglx1/js_5/f845c9ab3cb7419e8d7785f6771d7fbf.htm Prof. Li Yu]) | Ph.D., 2024- | Deep Learning for Assortment Optimization ||
-Xianjian Chi | MS., 2024- | Deep Reinforcement Learning for Operations Management ||
+Xiejian Chi | MS., 2024- | Deep Reinforcement Learning for Operations Management ||
 Zeyu Lu | MS., 2025- | Deep Dueling Bandits for Online Preference Learning ||
 Xiangzhou Song | MS., 2025- | Deep Generative Models for Traffic Data Imputation
 ~~~
