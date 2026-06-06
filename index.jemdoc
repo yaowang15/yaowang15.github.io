@@ -33,46 +33,86 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 *I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
 
 == Preprints Under Review
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413200 
-Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach]
-(2023; with T. Li, C. Wang and S. Tang)
-- [https://arxiv.org/abs/2302.10434
-Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes]
-(2023; with D. Wang, S.B. Lin and S. Tang)
+- [https://arxiv.org/pdf/2511.06610
+    Non-Rival Data as Rival Products: An Encapsulation-Forging Approach for Data Synthesis]
+    (2025; with K. Wang, J. Li and S.B. Lin).
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
+   Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
+    (2025; with Q. Guo et al.).
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
-(2022; with S. Tang, J. Yuan and T. Li)
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133647
-    Robust Tensor Completion with Side Information]
-    (2022; with Q. Yi, Y. Yang, D. Wang and S. Tang).
+(2023; with S. Tang, J. Yuan and T. Li)
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128032
 Enabling Collaborative Diagnosis through Novel
 Distributed Learning System with Autonomy]
 (2022; with X. Liu, S. Tang  and S.B. Lin).
-- [https://arxiv.org/pdf/2111.14039.pdf
-Generalization Performance of Empirical Risk Minimization on Over-parameterized Deep ReLU Nets]
-(2021; with S.B. Lin and D.X. Zhou).
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908616
-When Advertising meets Assortment Planning: Joint Advertising and Assortment Optimization under Multinomial Logit Model]
-(2021; with C. Wang and S. Tang).
-- [https://arxiv.org/pdf/2009.07558.pdf
-Kernel-based L2-Boosting with Structure Constraints]
-(2020; with X. Guo and S.B. Lin).
+
+
+
 
 
 == Selected Published Articles
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526247
+Assortment Optimization for the Multinomial Logit Model with Repeated Customer Interactions]
+(with N.Chen, P.Gao and C.Wang), /Management Science, forthcoming/, 2026.
+
+- [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1169
+Matrix Completion with Graph Information: A Provable Nonconvex Optimization Approach]
+(with D. Wang and S.B. Lin), /INFORMS Journal on Computing/, 2026.
+
+- [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1183
+Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes]
+(with D. Wang and S.B. Lin), /INFORMS Journal on Computing/, 2026.
+
+- [https://journals.sagepub.com/doi/epub/10.1177/10591478251351737
+Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach]
+(with T. Li, C. Wang and S. Tang), /Production and Operations Management/, 2025.
+
+- [http://www.jmlr.org/papers/volume26/20-593/20-593.pdf
+Kernel-based L2-Boosting with Structure Constraints] (with X. Guo and S.B. Lin), /Journal of Machine Learning Research 26 (296), 1-37/, 2025.
+
+- [https://ieeexplore.ieee.org/abstract/document/10989644/
+Robust Tensor Completion with Side Information]
+(with Q. Yi, Y. Yang, D. Wang and S. Tang), /IEEE Transactions on Knowledge and Data Engineering/, 2025.
+
+- [https://ieeexplore.ieee.org/document/10844907/
+Generalization Performance of Empirical Risk Minimization on Over-parameterized Deep ReLU Nets]
+(with S.B. Lin and D.X. Zhou), /IEEE Transactions on Information Theory/, 2025
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0305048325002014
+Towards popularity-aware recommendation: A multi-behavior enhanced framework with orthogonality constraint]
+(with with Y. Han, B. Xu and S. Gao), /Omega/, 2025
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0377221725006241
+A Probabilistic preference learning approach for multiple criteria ranking in dynamic decision context]
+(with S. Zhao, J. Liu, M. Kadziński and X. Liao), /European Journal of Operational Research/, 2025
+
+- [https://link.springer.com/article/10.1007/s10878-024-01257-0
+Advertising meets Assortment Planning: Joint Advertising and Assortment Optimization under Multinomial Logit Model]
+(with C. Wang and S. Tang), /Journal of Combinatorial Optimization 49 (2), 25/, 2025.
+
+- [https://ieeexplore.ieee.org/abstract/document/10697308/
+Effective Generalized Low-rank Tensor Contextual Bandits]
+(with Q. Yi, Y. Yang, S. Tang and J. Liu), /IEEE Transactions on Knowledge and Data Engineering/, 2024
+
+- [https://ieeexplore.ieee.org/abstract/document/10765145/
+Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent]
+(with Z. Liu, Z. Han, Y. Tang and X.L. Zhao), /IEEE Transactions on Signal Processing 72, 5470-5483 /, 2024.
+
 - [doc/DSS-main.pdf
 Efficient Fraud Detection Using Deep Boosting Decision Trees]
-(with B. Xu, K. Wang and X. Liao), /Decision Support Systems/, 2023.
+(with B. Xu, K. Wang and X. Liao), /Decision Support Systems 175, 114037/, 2023.
+
 - [https://ieeexplore.ieee.org/document/10141657
 A Spectral-Spatial Feature Rotation based Ensemble Method for Imbalanced Hyperspectral Image Classification]
     (with Y. Su, X. Li, J. Yao and C. Dong), /IEEE Transactions on Geoscience and Remote Sensing/, 2023.
 - [doc/UAI2023.pdf
 Regularized Online DR-Submodular Optimization]
-    (with P. Zuo and S. Tang), /Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI)/, 2023.
+    (with P. Zuo and S. Tang), /Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2608-2617/, 2023.
 - [doc/HSI-Superresolution.pdf
     Hyperspectral Image Super-resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network]
-    (with K. Wang, X. Liao, J. Li and D. Meng), /IEEE Transactions on Image Processing/, 2023.
+    (with K. Wang, X. Liao, J. Li and D. Meng), /IEEE Transactions on Image Processing 32, 4581-4594/, 2023.
 - [https://ieeexplore.ieee.org/abstract/document/10026252
     Tensor Robust PCA with Side Information: Models and Applications] (with Z. Han, S. Zhang, Y. Wang and J. Yao), 
     /IEEE Transactions on Circuits and Systems for Video Technology/, 2023.
@@ -121,11 +161,6 @@ Low-rank Tensor Train with Overlapping Ket Augmentation]
 (with Y. Zhang, Z. Han and Y. Tang),
 /IEEE Transactions on Circuits and Systems for Video Technology 32 (11), 7286-7300/, 2022.
 
-- [https://www.sciencedirect.com/science/article/abs/pii/S0165168422000111
-Total variation regularized nonlocal low-rank tensor train
- for spectral compressive imaging]
- (with Y. Han, K. Wang and X.L. Zhao),
- /Signal Processing 195, 108464/, 2022.
 
 
 - [https://ieeexplore.ieee.org/abstract/document/9714287
@@ -140,7 +175,7 @@ and product-dependent patience cost]
 /Operations Research Letters 50 (1), 8-15/, 2022.
 
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:QYdC8u9Cj1oC
+- [https://ieeexplore.ieee.org/abstract/document/8943296/
 SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
  (with K. Wang, Q. Zhao, D. Meng, X. Liao and Z. Xu),
  /IEEE Transactions on Cybernetics 51 (3), 1556 - 1570/, 2021.
@@ -154,11 +189,7 @@ SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:a3BOlSfXSfwC Enhanced 3DTV regularization and its applications on HSI denoising and compressed sensing] (with J. Peng, Q. Xie, Q. Zhao, Y. Leung and D. Meng), /IEEE Transactions on Image Processing 29, 7889 - 7903/, 2020.
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:2tRrZ1ZAMYUC Single-pixel foreground imaging without a priori background sensing] (with S. Zhao, R. Liu, P. Zhang, H. Gao, F. Huang and F. Li), /Optics Express 28 (18), 26018-26027/, 2020.
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:Bg7qf7VwUHIC Low-tubal-rank tensor recovery from one-bit measurements] (with J. Hou, F. Zhang and J. Wang), /ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2020.
-
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:BJbdYPG6LGMC A Fast and Accurate Frequent Directions Algorithm for Low Rank Approximation via Block Krylov Iteration] (with Q. Yi, C. Wang and X. Liao), /ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2020.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:r_AWSJRzSzQC Joint analysis of individual-level and summary-level GWAS data by leveraging pleiotropy] (with M. Dai, X. Wan, H. Peng, Y. Liu, J. Liu, Z. Xu and C. Yang), /Bioinformatics 35 (10), 1729-1736/, 2019.
 
@@ -196,14 +227,12 @@ SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:umqufdRvDiIC A novel sparsity measure for tensor recovery] (with Q. Zhao, D. Meng, X. Kong, Q. Xie, W. Cao and Z. Xu), /Proceedings of the IEEE International Conference on Computer Vision, 271-279/, 2015.
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:4hFrxpcac9AC Restricted p-isometry properties of nonconvex block-sparse compressed sensing] (with J. Wang and Z. Xu), /Signal Processing 104, 188-196/, 2014.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:NXb4pA-qfm4C
   L1\/2 Regularization: Convergence of Iterative Half Thresholding Algorithm]
    (with J. Zeng, S. Lin and Z. Xu),
    /IEEE Transactions on Signal Processing 62 (9), 2317-2329/, 2014.
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:a9-T7VOCCH8C On recovery of block-sparse signals via mixed l 2\/lq (0< q≤ 1) norm minimization] (with J. Wang and Z. Xu), /EURASIP Journal on Advances in Signal Processing 2013 (1), 1-17/, 2013.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:0izLItjtcgwC
 L1\/2 regularization]
@@ -214,35 +243,28 @@ L1\/2 regularization]
 == Group
 ~~~
 {}{table}{TABLE_MEMBERS}
-Current members | Pursuming | Contact ||
-Biao Xu | Ph.D., 2020- |
-  [mailto:xubiao.xjtu@gmail.com xubiao.xjtu@gmail.com]||
-[https://qianxinyi97.github.io/ Qianxin Yi] | Ph.D., 2021- |
-  [mailto:YiQianXin01@163.com YiQianXin01@163.com]||
-Yishan Han | Ph.D., 2021- |
-  [mailto:13.yishan.han@gmail.com 13.yishan.han@gmail.com]||
-Jiannan Li | Ph.D., 2022- |
-  [mailto:1500188165@qq.com 1500188165@qq.com]||
-Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Zhu]) | M.S., 2020- |
-  [mailto:zhiyuan.chen01@gmail.com  zhiyuan.chen01@gmail.com ]||
-Pengyu Zuo | M.S., 2021- |
-  [mailto:zpyqwq@gmail.com zpyqwq@gmail.com]||
-Tao Li (co-advised with \n [https://som.xjtu.edu.cn/info/1014/5976.htm Prof. Di Wang]) | M.S., 2021- |
-  [mailto:littt1024@gmail.com littt1024@gmail.com]||
-Yiyang Yang | M.S., 2022- |
-  [mailto:yyyang817@gmail.com yyyang817@gmail.com]||
+Current members | Pursuming | Research Direction ||
+Biao Xu | Ph.D., 2020- | Pairwise Learning in Management Science||
+Yishan Han | Ph.D., 2021- | Trustworthy Recommender Systems ||
+Jiannan Li | Ph.D., 2022- | Multi-Agent Reinforcement Learning ||
+Yiyang Yang | Ph.D., 2024- | Multi-modal Artificial Intelligence for Mangement ||
+Qing Guo (co-advised with [http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jjxxglx1/js_5/f845c9ab3cb7419e8d7785f6771d7fbf.htm Prof. Li Yu]) | Ph.D., 2024- | Deep Learning for Assortment Optimization ||
 ~~~
 
 ~~~
 {}{table}{TABLE_MEMBERS}
 Former members | Thesis | Current Position ||
-Chenhao Wang,    \n 2019-2022, M.S. | - When Advertising meets Assortment Planning: Joint \n Advertising and Assortment Optimization under \n Multinomial Logit Model |
-  Ph.D. candidate at \n The Chinese University of Hong Kong, Shenzhen||
-  Haiquan Qiu (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]),    \n 2019-2022, M.S. | - The Representation Methods of Structural Data and \n Their Applications | Ph.D. candidate at Tsinghua University||
-  Yuan Gao, \n 2017-2020, M.S. | - Implicit Generative Models: From Algorithms to \n Theories |
-  Ph.D. candidate at \n The Hong Kong Polytechnic University||
-  Kaidong Wang (co-advised with [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]), \n 2015-2020, Ph. D. | - Some Topics on Loss Functions and Regularizers in \n Machine Learning |
-  Assistant Professor at Xi'an Jiaotong University||
+Qianxin Yi,    2021-2025 | - Machine Learning Methods with Contextual Information \n for Recommendation Systems |
+    Associate Professor at Zhengzhou University||
+Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Zhu]) 2020-2023 | - Selected Topics in Low-tubal-rank Tensor Recovery | Research Engineer at ByteDance ||
+Tao Li, 2021-2024 | -  Deep Reinforcement Learning for Online Personalized Assortment Optimization | Ph.D. candidate at Hong Kong University of Science and Technology ||
+Chenhao Wang,   2019-2022 | - When Advertising meets Assortment Planning: Joint \n Advertising and Assortment Optimization under \n Multinomial Logit Model |
+    Assistant Professor at Tongji University||
+  Haiquan Qiu (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]),    2019-2022,  | - The Representation Methods of Structural Data and \n Their Applications | Ph.D. candidate at Tsinghua University||
+  Yuan Gao, 2017-2020 | - Implicit Generative Models: From Algorithms to \n Theories |
+  Assistant Professor at Nankai University||
+  Kaidong Wang (co-advised with [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]), \n 2015-2020 | - Some Topics on Loss Functions and Regularizers in \n Machine Learning |
+  Associate Professor at Xi'an Jiaotong University||
 ~~~
 
 == Courses
