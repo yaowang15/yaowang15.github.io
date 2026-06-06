@@ -14,7 +14,7 @@ Center for Intelligent Decision-Making and Machine Learning \n\n
 [http://www.xjtu.edu.cn/ Xi 'an Jiaotong University] \n\n
 
 
-*Office*: Wenguan building 736, No. 28 Xianning West Road, Xi 'an, China \n\n
+*Office*: Wenguan building 844, No. 28 Xianning West Road, Xi 'an, China \n\n
 
 *Email*: [mailto:yao.s.wang@gmail.com yao.s.wang@gmail.com] \n\n
 
@@ -25,7 +25,7 @@ Center for Intelligent Decision-Making and Machine Learning \n\n
 
 == About Me
 I am a Professor at the Center for Intelligent Decision-Making and Machine Learning 
-at Xi'an Jiaotong University. Prior to this, I was a faculty member at the Department of Statistics 
+at Xi'an Jiaotong University. Prior to this, I was a faculty member at the Department of Statistics and Data Science
 at Xi'an Jiaotong University.  My current research focuses on the interplay of machine learning 
 and managment science. I received my Ph.D. in Applied Mathematics from Xi'an Jiaotong University in 2014, under the supervision of [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]. 
 During my Ph.D. study, I was a visiting student at the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Tech, advised by [http://www.columbia.edu/~my2550/ Prof. Ming Yuan].
@@ -33,12 +33,21 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 *I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
 
 == Preprints Under Review
-- [https://arxiv.org/pdf/2511.06610
-    Non-Rival Data as Rival Products: An Encapsulation-Forging Approach for Data Synthesis]
-    (2025; with K. Wang, J. Li and S.B. Lin).
+- [https://arxiv.org/pdf/2310.02543
+   Tensor Completion Leveraging Graph Information: A Dynamic Regularization Approach with Statistical Guarantees]
+       (2026; with K. Wang et al.).
+- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:uVUOdF_882EC
+   Personalized Dynamic Product Ranking on Digital Platforms: A Low-Rank Cascading Bandit Approach]
+    (2026; with Y. Han et al.).
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
    Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
     (2025; with Q. Guo et al.).
+- [https://arxiv.org/pdf/2511.01267
+    A Spatio-Temporal Online Robust Tensor Recovery Approach for Streaming Traffic Data Imputation]
+    (2025; with Y. Yang, X. Chi, S. Gao and K. Wang).
+- [https://arxiv.org/pdf/2511.06610
+    Non-Rival Data as Rival Products: An Encapsulation-Forging Approach for Data Synthesis]
+    (2025; with K. Wang, J. Li and S.B. Lin).
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
 (2023; with S. Tang, J. Yuan and T. Li)
@@ -46,9 +55,6 @@ Profit-Driven Team Grouping in Social Networks]
 Enabling Collaborative Diagnosis through Novel
 Distributed Learning System with Autonomy]
 (2022; with X. Liu, S. Tang  and S.B. Lin).
-
-
-
 
 
 == Selected Published Articles
@@ -67,7 +73,13 @@ Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach 
 
 - [https://journals.sagepub.com/doi/epub/10.1177/10591478251351737
 Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach]
-(with T. Li, C. Wang and S. Tang), /Production and Operations Management/, 2025.
+(with T. Li, C. Wang and S. Tang), /Production and Operations Management 35 (2), 665–684/, 2026.
+
+- [https://arxiv.org/pdf/2603.02729
+The Power of Small Initialization in Noisy Low-Tubal-Rank Tensor Recovery] (with Z. Liu et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations/, 2026.
+
+- [https://arxiv.org/pdf/2603.14276
+All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation] (with Z. Liu et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations/, 2026.
 
 - [http://www.jmlr.org/papers/volume26/20-593/20-593.pdf
 Kernel-based L2-Boosting with Structure Constraints] (with X. Guo and S.B. Lin), /Journal of Machine Learning Research 26 (296), 1-37/, 2025.
@@ -249,22 +261,28 @@ Yishan Han | Ph.D., 2021- | Trustworthy Recommender Systems ||
 Jiannan Li | Ph.D., 2022- | Multi-Agent Reinforcement Learning ||
 Yiyang Yang | Ph.D., 2024- | Multi-modal Artificial Intelligence for Mangement ||
 Qing Guo (co-advised with [http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jjxxglx1/js_5/f845c9ab3cb7419e8d7785f6771d7fbf.htm Prof. Li Yu]) | Ph.D., 2024- | Deep Learning for Assortment Optimization ||
+Xianjian Chi | MS., 2024- | Deep Reinforcement Learning for Operations Management ||
+Zeyu Lu | MS., 2025- | Deep Dueling Bandits for Online Preference Learning ||
+Xiangzhou Song | MS., 2025- | Deep Generative Models for Traffic Data Imputation
 ~~~
 
 ~~~
 {}{table}{TABLE_MEMBERS}
 Former members | Thesis | Current Position ||
-Qianxin Yi,    2021-2025 | - Machine Learning Methods with Contextual Information \n for Recommendation Systems |
+Qianxin Yi,    2021-2025 | - Machine Learning Methods with Contextual \n Information for Recommendation Systems |
     Associate Professor at Zhengzhou University||
-Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Zhu]) 2020-2023 | - Selected Topics in Low-tubal-rank Tensor Recovery | Research Engineer at ByteDance ||
-Tao Li, 2021-2024 | -  Deep Reinforcement Learning for Online Personalized Assortment Optimization | Ph.D. candidate at Hong Kong University of Science and Technology ||
-Chenhao Wang,   2019-2022 | - When Advertising meets Assortment Planning: Joint \n Advertising and Assortment Optimization under \n Multinomial Logit Model |
+Tao Li, 2021-2024 | -  Deep Reinforcement Learning for Online Personalized Assortment Optimization | Ph.D. candidate at Hong Kong University of Science \n and Technology ||
+Pengyu Zuo, 2021-2024 | -  A Regularized Network Revenue Model with Fairness and Diversity Considerations | Ph.D. candidate at The Chinese University of Hong \n Kong, Shenzhen ||
+Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Zhu]), \n 2020-2023 | - Selected Topics on Low-Tubal-Rank Tensor Recovery | Research Engineer at ByteDance ||
+Chenhao Wang, 2019-\n 2022 | - Advertising meets Assortment Planning: Joint  Advertising and Assortment Optimization under Multinomial \n Logit Model |
     Assistant Professor at Tongji University||
   Haiquan Qiu (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]),    2019-2022,  | - The Representation Methods of Structural Data and \n Their Applications | Ph.D. candidate at Tsinghua University||
   Yuan Gao, 2017-2020 | - Implicit Generative Models: From Algorithms to \n Theories |
   Assistant Professor at Nankai University||
   Kaidong Wang (co-advised with [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]), \n 2015-2020 | - Some Topics on Loss Functions and Regularizers in \n Machine Learning |
   Associate Professor at Xi'an Jiaotong University||
+    Jiangjun Peng (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]), \n 2015-2018 | - Research Topics on  Hyperspectral Image Restoration |
+  Associate Professor at Northwestern Polytechnical \n University
 ~~~
 
 == Courses
