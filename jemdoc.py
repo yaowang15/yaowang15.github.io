@@ -1563,6 +1563,5 @@ def main():
     f = controlstruct(infile, outfile, conf, inname)
     procfile(f)
 
-#
 if __name__ == '__main__':
   main()
