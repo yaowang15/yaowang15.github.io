@@ -48,12 +48,17 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
    Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
     (2025; with Q. Guo et al.).
+    -- First Prize, Best Student Paper Competition of POMS-HK 2026.
+    -- Extended abstract accepted to the 27th ACM Conference on Economics and Computation (ACM EC 2026).
 - [https://arxiv.org/pdf/2511.01267
     A Spatio-Temporal Online Robust Tensor Recovery Approach for Streaming Traffic Data Imputation]
     (2025; with Y. Yang, X. Chi, S. Gao and K. Wang).
 - [https://arxiv.org/pdf/2511.06610
     Non-Rival Data as Rival Products: An Encapsulation-Forging Approach for Data Synthesis]
     (2025; with K. Wang, J. Li and S.B. Lin).
+  - [https://arxiv.org/pdf/2507.17528
+    Generalized Low-rank Matrix Contextual Bandits with Graph Information]
+    (2025; with  J. Li, Y. Kang, S. Gao and Z. Xiao).
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
 (2023; with S. Tang, J. Yuan and T. Li)
@@ -67,11 +72,11 @@ Distributed Learning System with Autonomy]
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526247
 Assortment Optimization for the Multinomial Logit Model with Repeated Customer Interactions]
-(with N.Chen, P.Gao and C.Wang), /Management Science, forthcoming/, 2026.
-
+(with N. Chen, P. Gao and C. Wang), /Management Science, forthcoming/, 2026.
+    -- Extended abstract accepted to The 21st Conference on Web and Internet Economics (WINE 2025).
 - [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1169
 Matrix Completion with Graph Information: A Provable Nonconvex Optimization Approach]
-(with D. Wang and S.B. Lin), /INFORMS Journal on Computing/, 2026.
+(with Y. Yang, K. Wang, S. Gao and X. Liao), /INFORMS Journal on Computing/, 2026.
 
 - [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1183
 Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes]
@@ -79,13 +84,13 @@ Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach 
 
 - [https://journals.sagepub.com/doi/epub/10.1177/10591478251351737
 Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach]
-(with T. Li, C. Wang and S. Tang), /Production and Operations Management 35 (2), 665–684/, 2026.
+(with T. Li, C. Wang, N. Chen and S. Tang), /Production and Operations Management 35 (2), 665–684/, 2026.
 
 - [https://arxiv.org/pdf/2603.02729
-The Power of Small Initialization in Noisy Low-Tubal-Rank Tensor Recovery] (with Z. Liu et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations/, 2026.
+The Power of Small Initialization in Noisy Low-Tubal-Rank Tensor Recovery] (with Z. Liu et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations (ICLR)/, 2026.
 
 - [https://arxiv.org/pdf/2603.14276
-All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation] (with X. Wang et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations/, 2026.
+All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation] (with X. Wang et al.), /In Proceedings of The Fourteenth International Conference on Learning Representations (ICLR)/, 2026.
 
 - [http://www.jmlr.org/papers/volume26/20-593/20-593.pdf
 Kernel-based L2-Boosting with Structure Constraints] (with X. Guo and S.B. Lin), /Journal of Machine Learning Research 26 (296), 1-37/, 2025.
@@ -100,7 +105,7 @@ Generalization Performance of Empirical Risk Minimization on Over-parameterized 
 
 - [https://www.sciencedirect.com/science/article/abs/pii/S0305048325002014
 Towards popularity-aware recommendation: A multi-behavior enhanced framework with orthogonality constraint]
-(with with Y. Han, B. Xu and S. Gao), /Omega/, 2025
+(with with Y. Han, B. Xu and S. Gao), /Omega, 103475/, 2025
 
 - [https://www.sciencedirect.com/science/article/abs/pii/S0377221725006241
 A Probabilistic preference learning approach for multiple criteria ranking in dynamic decision context]
@@ -112,7 +117,7 @@ Advertising meets Assortment Planning: Joint Advertising and Assortment Optimiza
 
 - [https://ieeexplore.ieee.org/abstract/document/10697308/
 Effective Generalized Low-rank Tensor Contextual Bandits]
-(with Q. Yi, Y. Yang, S. Tang and J. Liu), /IEEE Transactions on Knowledge and Data Engineering/, 2024
+(with Q. Yi, Y. Yang, S. Tang and J. Liu), /IEEE Transactions on Knowledge and Data Engineering 36 (12), 8051-8065/, 2024
 
 - [https://ieeexplore.ieee.org/abstract/document/10765145/
 Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent]
@@ -160,7 +165,7 @@ Nystr\"{o} m Regularization for Time Series Forecasting] (with Z. Sun, M. Dai an
 - [https://proceedings.mlr.press/v162/qiu22d/qiu22d.pdf
  Fast and Provable Nonconvex Tensor RPCA]
  (with H. Qiu, S. Tang, D. Meng and Q. Yao),
- /International Conference on Machine Learning, 18211-18249/, 2022.
+ /International Conference on Machine Learning (ICML), 18211-18249/, 2022.
  
  - [https://ieeexplore.ieee.org/document/9369083
 Robust low-tubal-rank tensor recovery from binary measurements]
@@ -214,7 +219,6 @@ SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:HIFyuExEbWQC Sparse recovery: from vectors to tensors] (with D. Meng and M. Yuan), /National Science Review 5 (5), 756-767/, 2018.
 
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:bKqednn6t2AC Compressive sensing of hyperspectral images via joint tensor tucker decomposition and weighted total variation regularization] (with L. Lin, Q. Zhao, T. Yue, D. Meng and Y. Leung), /IEEE Geoscience and Remote Sensing Letters 14 (12), 2457-2461/, 2017.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:HtS1dXgVpQUC Tensor rpca by bayesian cp factorization with complex noise] (with Q. Luo, Z. Han, X. Chen, D. Meng, D. Liang and Y. Tang), /Proceedings of the IEEE International Conference on Computer Vision, 5019-5028/, 2017.
 
@@ -275,6 +279,7 @@ Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Z
 Chenhao Wang, 2019-\n 2022 | - Advertising meets Assortment Planning: Joint  Advertising and Assortment Optimization under Multinomial \n Logit Model |
     Assistant Professor at Tongji University||
   Haiquan Qiu (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]),    \n 2019-2022,  | - The Representation Methods of Structural Data and \n Their Applications | Ph.D. candidate at Tsinghua University||
+    Xu Liao, 2017-2019 | - Fast Dynamic MR Imaging via Low-rank Tensor \n Modeling  | Postdoctoral Research Scientist at at Duke University||
   Yuan Gao, 2017-2020 | - Implicit Generative Models: From Algorithms to \n Theories |
   Assistant Professor at Nankai University||
     Tianwei Yue, 2016-2018 | - Recovering High-order Tensors from Fourier \n Measuremtns | Co-founder and CEO of Mathos AI ||
