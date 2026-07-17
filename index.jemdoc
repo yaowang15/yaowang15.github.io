@@ -42,9 +42,6 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 - [https://arxiv.org/pdf/2410.11683
    Optimal Mediation Mechanisms in Bilateral Trade]
        (2026; with Z. Fan, W. Shen and S. Tang).
-- [https://www.researchsquare.com/article/rs-9062650/v1
-    CoxFormer enables Spatial Omics Inference with Multimodal Generative Modeling]
-    (2026; with Y. Yang et al.).
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
    Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
     (2025; with Q. Guo et al.).
@@ -69,11 +66,15 @@ Distributed Learning System with Autonomy]
 
 
 == Selected Published Articles
+- [https://www.researchsquare.com/article/rs-9062650/v1
+CoxFormer enables Spatial Omics Inference with Multimodal Generative Modeling]
+(with Y. Yang et al.), /Nature Communications, forthcoming/, 2026.
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526247
 Assortment Optimization for the Multinomial Logit Model with Repeated Customer Interactions]
 (with N. Chen, P. Gao and C. Wang), /Management Science, forthcoming/, 2026.
     -- Extended abstract accepted to The 21st Conference on Web and Internet Economics (WINE 2025).
+
 - [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1169
 Matrix Completion with Graph Information: A Provable Nonconvex Optimization Approach]
 (with Y. Yang, K. Wang, S. Gao and X. Liao), /INFORMS Journal on Computing/, 2026.
