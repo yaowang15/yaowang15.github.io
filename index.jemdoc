@@ -32,24 +32,24 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 
 *I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
 
-== Preprints Under Review
+== Selected Working Papers
 - [https://arxiv.org/pdf/2310.02543
    Tensor Completion Leveraging Graph Information: A Dynamic Regularization Approach with Statistical Guarantees]
        (2026; with K. Wang et al.).
 - [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:uVUOdF_882EC
    Personalized Dynamic Product Ranking on Digital Platforms: A Low-Rank Cascading Bandit Approach]
-    (2026; with Y. Han et al.).
+    (2026; with Y. Han et al.), /R&R at Production and Operations Management/.
 - [https://arxiv.org/pdf/2410.11683
    Optimal Mediation Mechanisms in Bilateral Trade]
-       (2026; with Z. Fan, W. Shen and S. Tang).
+       (2026; with Z. Fan, W. Shen and S. Tang), /R&R at Operations Research/.
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5671592
    Solving Assortment Optimization with First-Order Methods and Neural Networks: A Computational Framework and Public Benchmark]
-    (2025; with Q. Guo et al.).
+    (2025; with Q. Guo et al.), /Major Revision at Management Science/.
     -- First Prize, Best Student Paper Competition of POMS-HK 2026.
     -- Extended abstract accepted to the 27th ACM Conference on Economics and Computation (ACM EC 2026).
 - [https://arxiv.org/pdf/2511.01267
     A Spatio-Temporal Online Robust Tensor Recovery Approach for Streaming Traffic Data Imputation]
-    (2025; with Y. Yang, X. Chi, S. Gao and K. Wang).
+    (2025; with Y. Yang, X. Chi, S. Gao and K. Wang), /Major Revision at IEEE TKDE/.
 - [https://arxiv.org/pdf/2511.06610
     Non-Rival Data as Rival Products: An Encapsulation-Forging Approach for Data Synthesis]
     (2025; with K. Wang, J. Li and S.B. Lin).
@@ -66,7 +66,7 @@ Distributed Learning System with Autonomy]
 
 
 == Selected Published Articles
-- [https://www.researchsquare.com/article/rs-9062650/v1
+- [https://www.nature.com/articles/s41467-026-76404-8
 CoxFormer enables Spatial Omics Inference with Multimodal Generative Modeling]
 (with Y. Yang et al.), /Nature Communications, forthcoming/, 2026.
 
